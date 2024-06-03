@@ -1,6 +1,6 @@
 ## 介绍
 
-根据[官方文档](https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app)写的一个简单demo
+根据[官方文档](https://www.electronjs.org/docs/latest/tutorial/tutorial-first-app)写的一个简单demo，可以切换黑色、白色主题颜色
 
 ## 预览
 ![](/img.png)
